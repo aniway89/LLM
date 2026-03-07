@@ -79,15 +79,15 @@ class Head(nn.Module):
 
     def forward(self, x):
         B,T,C = x.shape
-        k = self.key(x)   # (B,T,C)
-        q = self.query(x) # (B,T,C)
-        wei = q @ k.transpose(-2,-1) * C**-0.5 # (B, T, C) @ (B, C, T) -> (B, T, T)
-        wei = wei.masked_fill(self.tril[:T, :T] == 0, float('-inf')) # (B, T, T)
+        k = self.key(x)
+        q = self.query(x) 
+        wei = q @ k.transpose(-2,-1) * C**-0.5 
+        wei = wei.masked_fill(self.tril[:T, :T] == 0, float('-inf'))
 
-        wei = F.softmax(wei, dim=-1) # (B, T, T)
+        wei = F.softmax(wei, dim=-1) 
         wei = self.dropout(wei)
-        v = self.value(x) # (B,T,C)
-        out = wei @ v # (B, T, T) @ (B, T, C) -> (B, T, C)
+        v = self.value(x) 
+        out = wei @ v
         return out
 
 class MultiHeadAttention(nn.Module):
@@ -228,3 +228,4 @@ prompt = "User: Hello\nBot:"
 context = torch.tensor([encode(prompt)], dtype=torch.long).to(device)
 
 print(decode(m.generate(context, max_new_tokens=200)[0].tolist()))
+
