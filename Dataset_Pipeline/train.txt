@@ -1,0 +1,1877 @@
+User: Say , Jim , how about going for a few beers after dinner ?
+Bot: You know that is tempting but is really not good for our fitness .
+
+User: You know that is tempting but is really not good for our fitness .
+Bot: What do you mean ? It will help us to relax .
+
+User: What do you mean ? It will help us to relax .
+Bot: Do you really think so ? I don't . It will just make us fat and act silly . Remember last time ?
+
+User: Do you really think so ? I don't . It will just make us fat and act silly . Remember last time ?
+Bot: I guess you are right.But what shall we do ? I don't feel like sitting at home .
+
+User: I guess you are right.But what shall we do ? I don't feel like sitting at home .
+Bot: I suggest a walk over to the gym where we can play singsong and meet some of our friends .
+
+User: I suggest a walk over to the gym where we can play singsong and meet some of our friends .
+Bot: That's a good idea . I hear Mary and Sally often go there to play pingpong.Perhaps we can make a foursome with them .
+
+User: That's a good idea . I hear Mary and Sally often go there to play pingpong.Perhaps we can make a foursome with them .
+Bot: Sounds great to me ! If they are willing , we could ask them to go dancing with us.That is excellent exercise and fun , too .
+
+User: Sounds great to me ! If they are willing , we could ask them to go dancing with us.That is excellent exercise and fun , too .
+Bot: Good.Let ' s go now .
+
+User: Good.Let ' s go now .
+Bot: All right .
+
+User: Can you do push-ups ?
+Bot: Of course I can . It's a piece of cake ! Believe it or not , I can do 30 push-ups a minute .
+
+User: Of course I can . It's a piece of cake ! Believe it or not , I can do 30 push-ups a minute .
+Bot: Really ? I think that's impossible !
+
+User: Really ? I think that's impossible !
+Bot: You mean 30 push-ups ?
+
+User: You mean 30 push-ups ?
+Bot: Yeah !
+
+User: Yeah !
+Bot: It's easy . If you do exercise everyday , you can make it , too .
+
+User: Can you study with the radio on ?
+Bot: No , I listen to background music .
+
+User: No , I listen to background music .
+Bot: What is the difference ?
+
+User: What is the difference ?
+Bot: The radio has too many comerials .
+
+User: The radio has too many comerials .
+Bot: That's true , but then you have to buy a record player .
+
+User: Are you all right ?
+Bot: I will be all right soon . I was terrified when I watched them fall from the wire .
+
+User: I will be all right soon . I was terrified when I watched them fall from the wire .
+Bot: Don't worry.He is an acrobat 。
+
+User: Don't worry.He is an acrobat 。
+Bot: I see .
+
+User: Hey John , nice skates . Are they new ?
+Bot: Yeah , I just got them . I started playing ice hockey in a community league . So , I finally got myself new skates .
+
+User: Yeah , I just got them . I started playing ice hockey in a community league . So , I finally got myself new skates .
+Bot: What position do you play ?
+
+User: What position do you play ?
+Bot: I ’ m a defender . It ’ s a lot of fun . You don ’ t have to be able to skate as fast on defense .
+
+User: I ’ m a defender . It ’ s a lot of fun . You don ’ t have to be able to skate as fast on defense .
+Bot: Yeah , you ’ re a pretty big guy . I play goalie , myself .
+
+User: Yeah , you ’ re a pretty big guy . I play goalie , myself .
+Bot: Oh , yeah ? Which team ?
+
+User: Oh , yeah ? Which team ?
+Bot: The Rockets .
+
+User: The Rockets .
+Bot: Really ? I think we play you guys next week . Well , I have to go to practice . See you later .
+
+User: Really ? I think we play you guys next week . Well , I have to go to practice . See you later .
+Bot: All right , see you later .
+
+User: Hey Lydia , what are you reading ?
+Bot: I ’ m looking at my horoscope for this month ! My outlook is very positive . It says that I should take a vacation to someplace exotic , and that I will have a passionate summer fling !
+
+User: I ’ m looking at my horoscope for this month ! My outlook is very positive . It says that I should take a vacation to someplace exotic , and that I will have a passionate summer fling !
+Bot: What are you talking about ? Let me see that ... What are horoscopes ?
+
+User: What are you talking about ? Let me see that ... What are horoscopes ?
+Bot: It ’ s a prediction of your month , based on your zodiac sign . You have a different sign for the month and date you were born in . I was born on April 15th , so I ’ m an Aries . When were you born ?
+
+User: It ’ s a prediction of your month , based on your zodiac sign . You have a different sign for the month and date you were born in . I was born on April 15th , so I ’ m an Aries . When were you born ?
+Bot: January 5th .
+
+User: January 5th .
+Bot: Let ’ s see . . . you ’ re a Capricorn . It says that you will be feeling stress at work , but you could see new , exciting developments in your love life . Looks like we ’ ll both have interesting summers !
+
+User: Let ’ s see . . . you ’ re a Capricorn . It says that you will be feeling stress at work , but you could see new , exciting developments in your love life . Looks like we ’ ll both have interesting summers !
+Bot: That ’ s bogus . I don't feel any stress at work , and my love life is practically nonexistent . This zodiac stuff is all a bunch of nonsense .
+
+User: That ’ s bogus . I don't feel any stress at work , and my love life is practically nonexistent . This zodiac stuff is all a bunch of nonsense .
+Bot: No , it ’ s not , your astrology sign can tell you a lot about your personality . See ? It says that an Aries is energetic and loves to socialize .
+
+User: No , it ’ s not , your astrology sign can tell you a lot about your personality . See ? It says that an Aries is energetic and loves to socialize .
+Bot: Well , you certainly match those criteria , but they ’ re so broad they could apply to anyone . What does it say about me ?
+
+User: Well , you certainly match those criteria , but they ’ re so broad they could apply to anyone . What does it say about me ?
+Bot: A Capricorn is serious-minded and practical . She likes to do things in conventional ways . That sounds just like you !
+
+User: Frank ’ s getting married , do you believe this ?
+Bot: Is he really ?
+
+User: Is he really ?
+Bot: Yes , he is . He loves the girl very much .
+
+User: Yes , he is . He loves the girl very much .
+Bot: Who is he marring ?
+
+User: Who is he marring ?
+Bot: A girl he met on holiday in Spain , I think .
+
+User: A girl he met on holiday in Spain , I think .
+Bot: Have they set a date for the wedding ?
+
+User: Have they set a date for the wedding ?
+Bot: Not yet .
+
+User: I hear you bought a new house in the northern suburbs .
+Bot: That ’ s right , we bought it the same day we came on the market .
+
+User: That ’ s right , we bought it the same day we came on the market .
+Bot: What kind of house is it ?
+
+User: What kind of house is it ?
+Bot: It ’ s a wonderful Spanish style .
+
+User: It ’ s a wonderful Spanish style .
+Bot: Oh , I love the roof tiles on Spanish style houses .
+
+User: Oh , I love the roof tiles on Spanish style houses .
+Bot: And it ’ s a bargaining . A house like this in river side costs double the price .
+
+User: And it ’ s a bargaining . A house like this in river side costs double the price .
+Bot: Great , is it a two bedroom house ?
+
+User: Great , is it a two bedroom house ?
+Bot: No , it has three bedrooms and three beds , and has a living room with a twelve-foot ceiling . There ’ s a two-car garage .
+
+User: No , it has three bedrooms and three beds , and has a living room with a twelve-foot ceiling . There ’ s a two-car garage .
+Bot: That ’ s a nice area too . It ’ ll be a good investment for you .
+
+User: That ’ s a nice area too . It ’ ll be a good investment for you .
+Bot: Yeas , when will you buy a house ?
+
+User: Yeas , when will you buy a house ?
+Bot: Not untill the end of this year , you know , just before my wedding .
+
+User: Not untill the end of this year , you know , just before my wedding .
+Bot: Right , congratulations .
+
+User: Right , congratulations .
+Bot: Thank you .
+
+User: Hi , Becky , what's up ?
+Bot: Not much , except that my mother-in-law is driving me up the wall .
+
+User: Not much , except that my mother-in-law is driving me up the wall .
+Bot: What's the problem ?
+
+User: What's the problem ?
+Bot: She loves to nit-pick and criticizes everything that I do . I can never do anything right when she's around .
+
+User: She loves to nit-pick and criticizes everything that I do . I can never do anything right when she's around .
+Bot: For example ?
+
+User: For example ?
+Bot: Well , last week I invited her over to dinner . My husband and I had no problem with the food , but if you listened to her , then it would seem like I fed her old meat and rotten vegetables . There's just nothing can please her .
+
+User: Well , last week I invited her over to dinner . My husband and I had no problem with the food , but if you listened to her , then it would seem like I fed her old meat and rotten vegetables . There's just nothing can please her .
+Bot: No , I can't see that happening . I know you're a good cook and nothing like that would ever happen .
+
+User: No , I can't see that happening . I know you're a good cook and nothing like that would ever happen .
+Bot: It's not just that . She also criticizes how we raise the kids .
+
+User: It's not just that . She also criticizes how we raise the kids .
+Bot: My mother-in-law used to do the same thing to us . If it wasn't disciplining them enough , then we were disciplining them too much . She also complained about the food we fed them , the schools we sent them too , and everything else under the sun .
+
+User: My mother-in-law used to do the same thing to us . If it wasn't disciplining them enough , then we were disciplining them too much . She also complained about the food we fed them , the schools we sent them too , and everything else under the sun .
+Bot: You said she used to ? How did you stop her ?
+
+User: You said she used to ? How did you stop her ?
+Bot: We basically sat her down and told her how we felt about her constant criticizing , and how we welcomed her advice but hoped she'd let us do our things . She understood , and now everything is a lot more peaceful .
+
+User: We basically sat her down and told her how we felt about her constant criticizing , and how we welcomed her advice but hoped she'd let us do our things . She understood , and now everything is a lot more peaceful .
+Bot: That sounds like a good idea . I'll have to try that .
+
+User: How are Zina's new programmers working out ?
+Bot: I hate to admit it , but they're good . And fast . The Filipino kid is a genius .
+
+User: I hate to admit it , but they're good . And fast . The Filipino kid is a genius .
+Bot: So you'll make the Stars.com deadline , and have us up and running next week ?
+
+User: So you'll make the Stars.com deadline , and have us up and running next week ?
+Bot: It'll be close , but we'll make it .
+
+User: It'll be close , but we'll make it .
+Bot: Good . After Stars.com starts paying us , we won't need Vikam's cash anymore .
+
+User: Good . After Stars.com starts paying us , we won't need Vikam's cash anymore .
+Bot: And if we don't need them , we won't need Zina , either .
+
+User: Do you like cooking ?
+Bot: Yes . I like cooking very much . I got this hobby when I was 12 years sold .
+
+User: Yes . I like cooking very much . I got this hobby when I was 12 years sold .
+Bot: Why do you like it ?
+
+User: Why do you like it ?
+Bot: I have no idea . I like cooking by myself . I like to taste delicious food .
+
+User: I have no idea . I like cooking by myself . I like to taste delicious food .
+Bot: That's wonderful !
+
+User: That's wonderful !
+Bot: And I love trying new recipes , which I usually test with my friends . You can come , too .
+
+User: And I love trying new recipes , which I usually test with my friends . You can come , too .
+Bot: Really ? I hope I can have a chance to taste it . Don't forget to tell me .
+
+User: Really ? I hope I can have a chance to taste it . Don't forget to tell me .
+Bot: Certainly .
+
+User: Anyone home ? Jen !
+Bot: I'm in the kitchen ... let yourself in !
+
+User: I'm in the kitchen ... let yourself in !
+Bot: Wow ! You're really working up a storm !
+
+User: Wow ! You're really working up a storm !
+Bot: I know . I've even worked up a sweat .
+
+User: I know . I've even worked up a sweat .
+Bot: You look like a cooking show host--only messier .
+
+User: You look so tan and healthy !
+Bot: Thanks . I just got back from summer camp .
+
+User: Thanks . I just got back from summer camp .
+Bot: How was it ?
+
+User: How was it ?
+Bot: Great . I got to try so many things for the first time .
+
+User: Great . I got to try so many things for the first time .
+Bot: Like what ?
+
+User: Like what ?
+Bot: I went sailing , fishing , and horseback riding .
+
+User: I went sailing , fishing , and horseback riding .
+Bot: I ’ m so jealous .
+
+User: I ’ m so jealous .
+Bot: The counselors were so nice too . It was the best summer ever . Except for all those mosquitoes !
+
+User: Diana , do you like the perfume I gave you ?
+Bot: It ’ s good . But to tell you the truth , I don ’ t wear perfume .
+
+User: It ’ s good . But to tell you the truth , I don ’ t wear perfume .
+Bot: I ’ m sorry . I didn ’ t know that .
+
+User: I ’ m sorry . I didn ’ t know that .
+Bot: That ’ s all right . Thank you all the same .
+
+User: Ah , ah , ah ...
+Bot: All right , Bill.Here ' s your daily exercise schedule . You are to jog before breakfast .
+
+User: All right , Bill.Here ' s your daily exercise schedule . You are to jog before breakfast .
+Bot: Jog ?
+
+User: Jog ?
+Bot: Then , you are to walk to work .
+
+User: Then , you are to walk to work .
+Bot: Walk ?
+
+User: Walk ?
+Bot: Thirty minutes in gym at lunch time .
+
+User: Thirty minutes in gym at lunch time .
+Bot: Oh no .
+
+User: Oh no .
+Bot: Use the stairs , never the elevator .
+
+User: Use the stairs , never the elevator .
+Bot: Oh , dear .
+
+User: Oh , dear .
+Bot: And three times a week , you can either swim , play racketball , or hand ball .
+
+User: And three times a week , you can either swim , play racketball , or hand ball .
+Bot: Oh no .
+
+User: Oh no .
+Bot: OK , you can stop now.It ' s time for the dance class .
+
+User: OK , you can stop now.It ' s time for the dance class .
+Bot: Dance class ! I don't know how .
+
+User: Dance class ! I don't know how .
+Bot: You will .
+
+User: You will .
+Bot: Oh ...
+
+User: Hi Bill , I saw your grandma yesterday .
+Bot: Oh where was that ?
+
+User: Oh where was that ?
+Bot: I was running around the track at my college and there she was walking around the same track .
+
+User: I was running around the track at my college and there she was walking around the same track .
+Bot: Grannie always tries to stay fit and healthy.She is always making us kids eat the proper foods .
+
+User: Grannie always tries to stay fit and healthy.She is always making us kids eat the proper foods .
+Bot: Well , it pays off for her.How old is she anyway ?
+
+User: Well , it pays off for her.How old is she anyway ?
+Bot: She will be 86 next month .
+
+User: She will be 86 next month .
+Bot: That is truly amazing !
+
+User: I would like to register for a class today .
+Bot: No problem , what class would you like to take ?
+
+User: No problem , what class would you like to take ?
+Bot: I would very much enjoy taking a Psychology class.Because I'm crazy .
+
+User: I would very much enjoy taking a Psychology class.Because I'm crazy .
+Bot: There are two classes that are still open .
+
+User: There are two classes that are still open .
+Bot: Which days are these classes on ?
+
+User: Which days are these classes on ?
+Bot: The first class is a Tuesday and Thursday class from two to three .
+
+User: The first class is a Tuesday and Thursday class from two to three .
+Bot: What about the other class ?
+
+User: What about the other class ?
+Bot: The other class is on Monday and Wednesday from 10 am - 12 .
+
+User: The other class is on Monday and Wednesday from 10 am - 12 .
+Bot: Are you sure there are no more open classes ?
+
+User: Are you sure there are no more open classes ?
+Bot: I'm positive .
+
+User: I'm positive .
+Bot: Sign me up for Monday and Wednesday .
+
+User: Sign me up for Monday and Wednesday .
+Bot: Okay , I'll sign you up .
+
+User: Dad , why are you taping the windows ?
+Bot: Honey , a typhoon is coming .
+
+User: Honey , a typhoon is coming .
+Bot: Really ? Wow , I don't have to go to school tomorrow .
+
+User: Really ? Wow , I don't have to go to school tomorrow .
+Bot: Jenny , come and help , we need to prepare more food .
+
+User: Jenny , come and help , we need to prepare more food .
+Bot: OK . Dad ! I'm coming .
+
+User: Hi , my name is Lean , and I'm from Russia .
+Bot: Nice to meet you , Lean . My name is Alike . I'm from Japan .
+
+User: Nice to meet you , Lean . My name is Alike . I'm from Japan .
+Bot: To me English is a difficult language .
+
+User: To me English is a difficult language .
+Bot: A second language is always difficult .
+
+User: A second language is always difficult .
+Bot: True , but English is harder than most . It's a crazy language .
+
+User: True , but English is harder than most . It's a crazy language .
+Bot: A crazy language ? Why do you say that ?
+
+User: A crazy language ? Why do you say that ?
+Bot: One letter can have several pronunciations and one word can have several meanings .
+
+User: One letter can have several pronunciations and one word can have several meanings .
+Bot: No wonder you say English is a crazy language .
+
+User: Can I help you ?
+Bot: I hope so . I'm looking for some material for a paper I'm writing , and I'm not quite sure where to look .
+
+User: I hope so . I'm looking for some material for a paper I'm writing , and I'm not quite sure where to look .
+Bot: I'll certainly try to help you . What topic is your paper on ?
+
+User: I'll certainly try to help you . What topic is your paper on ?
+Bot: My paper is on the influence of television on children .
+
+User: My paper is on the influence of television on children .
+Bot: There are several possible sources you might use for that topic . I suggest you use the computer and the computer will give you a list of every scientific journal that talks about children and television .
+
+User: There are several possible sources you might use for that topic . I suggest you use the computer and the computer will give you a list of every scientific journal that talks about children and television .
+Bot: Thank you for you help .
+
+User: Here ’ s your hot dog and beer . What happened ? Did I miss anything ?
+Bot: Yeah , Cal Ripen just hit a home run .
+
+User: Yeah , Cal Ripen just hit a home run .
+Bot: What ’ s the score ?
+
+User: What ’ s the score ?
+Bot: Well it was 3 to 4 , but Ripen ’ s home run made it 5 to 4 since another player was on first base .
+
+User: Well it was 3 to 4 , but Ripen ’ s home run made it 5 to 4 since another player was on first base .
+Bot: So Baltimore is winning ?
+
+User: So Baltimore is winning ?
+Bot: Right .
+
+User: Right .
+Bot: This is a really great place to watch a baseball game .
+
+User: This is a really great place to watch a baseball game .
+Bot: Yeah , there isn ’ t a bad seat in the place .
+
+User: Yeah , there isn ’ t a bad seat in the place .
+Bot: The fans are great here , too . Not like in Philadelphia .
+
+User: The fans are great here , too . Not like in Philadelphia .
+Bot: It was a great idea to spend a day watching a game .
+
+User: It was a great idea to spend a day watching a game .
+Bot: Yeah , it reminds you why they say baseball is America ’ s favorite pastime .
+
+User: How do you like the pizza here ?
+Bot: Perfect . It really hits the spot .
+
+User: Do you have a light ?
+Bot: Sorry , I don't smoke .
+
+User: I was scared stiff of giving my first performance .
+Bot: Were you ? your performance was excellent .
+
+User: Were you ? your performance was excellent .
+Bot: Thank you for your kindly words .
+
+User: Excuse me . Could you please take a picture of us with this camera ?
+Bot: Sure . Which button do I press to shoot ?
+
+User: Sure . Which button do I press to shoot ?
+Bot: This one .
+
+User: This one .
+Bot: Do I have to focus it ?
+
+User: Do I have to focus it ?
+Bot: No , this is a focus-free camera . All you have to do is point and press the button .
+
+User: No , this is a focus-free camera . All you have to do is point and press the button .
+Bot: All right . Say cheese !
+
+User: Every country should face the history .
+Bot: Yeah , we don ’ t live in the vacuum . We have traditional values and long but different history .
+
+User: Yeah , we don ’ t live in the vacuum . We have traditional values and long but different history .
+Bot: Sometimes , we , human beings , really had done something wrong , so we should admit it at first .
+
+User: Sometimes , we , human beings , really had done something wrong , so we should admit it at first .
+Bot: But there is always somebody who wants to turn his back on the true history .
+
+User: But there is always somebody who wants to turn his back on the true history .
+Bot: I believe such things won ’ t be realized , just daydreaming .
+
+User: Do you like traveling , Kathy ?
+Bot: I like traveling for pleasure to get places for vacation for instance . But I don ’ t like traveling to work , waiting for buses , or ...
+
+User: I like traveling for pleasure to get places for vacation for instance . But I don ’ t like traveling to work , waiting for buses , or ...
+Bot: Or getting stuck in traffic jams when you ’ re driving .
+
+User: Or getting stuck in traffic jams when you ’ re driving .
+Bot: Exactly .
+
+User: Your house is too small . Why not buy a big one .
+Bot: I do wish I could afford one .
+
+User: I do wish I could afford one .
+Bot: You can get a loan from the bank . You know LPF program provides low cost loans for participants home purchases .
+
+User: You can get a loan from the bank . You know LPF program provides low cost loans for participants home purchases .
+Bot: Of course I know that . But don't you notice that the house price is skyrocketing ?
+
+User: How do you do , Prof.Smith .
+Bot: How do you do , Ms . Yang.You speak very good English .
+
+User: How do you do , Ms . Yang.You speak very good English .
+Bot: Thank you . I begin to like English even when I was a child .
+
+User: Thank you . I begin to like English even when I was a child .
+Bot: Where did you learn it ?
+
+User: Where did you learn it ?
+Bot: At school , in China.This is my first time to be out of my own country .
+
+User: At school , in China.This is my first time to be out of my own country .
+Bot: It's amazing .
+
+User: Do you want black or white coffee ?
+Bot: White , please
+
+User: White , please
+Bot: Look ! there's a Folk concert tomorrow evening . Do you Want to go ?
+
+User: Look ! there's a Folk concert tomorrow evening . Do you Want to go ?
+Bot: I don't like Folk music very much .
+
+User: I don't like Folk music very much .
+Bot: What kind of music do you like ?
+
+User: What kind of music do you like ?
+Bot: I like classical music . Do you ?
+
+User: I like classical music . Do you ?
+Bot: Not very much . Classical music sends me to sleep
+
+User: Not very much . Classical music sends me to sleep
+Bot: I don't believe you .
+
+User: I don't believe you .
+Bot: It ’ s true .
+
+User: It ’ s true .
+Bot: You are funny !
+
+User: You are funny !
+Bot: So are you ! How about another coffee ?
+
+User: What do you like to do in your spare time ?
+Bot: I like playing chess .
+
+User: I like playing chess .
+Bot: Do you have any hobbies besides playing chess ?
+
+User: Do you have any hobbies besides playing chess ?
+Bot: I'm afraid not .
+
+User: I'm afraid not .
+Bot: Do you have any hobbies like playing tennis or things like that ?
+
+User: Do you have any hobbies like playing tennis or things like that ?
+Bot: Oh , yes . I like playing basketball .
+
+User: Oh , yes . I like playing basketball .
+Bot: Can you tell me why you like it ?
+
+User: Can you tell me why you like it ?
+Bot: Because I like the feeling of cooperating with others .
+
+User: Where is John ? I can't find him anywhere .
+Bot: Haven't you heard that he is in prison ?
+
+User: Haven't you heard that he is in prison ?
+Bot: What ? Beg your pardon .
+
+User: What ? Beg your pardon .
+Bot: John is in prison now . He was copped outstealing .
+
+User: John is in prison now . He was copped outstealing .
+Bot: I just cann't believe my ears !
+
+User: Can I help you ?
+Bot: I hope so . I'm looking for some material for a paper I'm writing , and I'm not quite sure where to look .
+
+User: I hope so . I'm looking for some material for a paper I'm writing , and I'm not quite sure where to look .
+Bot: I'll certainly try to help you.What topic is your paper on ?
+
+User: I'll certainly try to help you.What topic is your paper on ?
+Bot: My paper is on the influence of television on children .
+
+User: My paper is on the influence of television on children .
+Bot: There are several possible sources you might use for that topic . I suggest you use the computer and the computer will give you a list of every scientific journal that talks about children and television .
+
+User: There are several possible sources you might use for that topic . I suggest you use the computer and the computer will give you a list of every scientific journal that talks about children and television .
+Bot: Thank you for you help .
+
+User: Hey , Ted . What are you up to this Friday ?
+Bot: Well , I have the day off from work .
+
+User: Well , I have the day off from work .
+Bot: That ’ s great ! Do you have any plans ?
+
+User: That ’ s great ! Do you have any plans ?
+Bot: Well , I ’ Ve been working so hard lately , so I ’ ll probably just take it easy .
+
+User: Well , I ’ Ve been working so hard lately , so I ’ ll probably just take it easy .
+Bot: Sounds nice .
+
+User: Sounds nice .
+Bot: Yeah , I ’ ll probably just stay in and relax . Maybe watch a few movies .
+
+User: Yeah , I ’ ll probably just stay in and relax . Maybe watch a few movies .
+Bot: Can I stop by ?
+
+User: Can I stop by ?
+Bot: Sure . Any time .
+
+User: You honestly believe the world ’ s improving every year ?
+Bot: Yes , I do . I think that science is making us wiser . What do you think ?
+
+User: Yes , I do . I think that science is making us wiser . What do you think ?
+Bot: I don ’ t think you ’ re right there .
+
+User: I don ’ t think you ’ re right there .
+Bot: I believe industry is making us wealthier .
+
+User: I believe industry is making us wealthier .
+Bot: I don ’ t believe that .
+
+User: I don ’ t believe that .
+Bot: And in my opinion , medicine is making us healthier .
+
+User: And in my opinion , medicine is making us healthier .
+Bot: I agree with you in the sense . But we ’ re all more miserable than ever , aren ’ t we ?
+
+User: I agree with you in the sense . But we ’ re all more miserable than ever , aren ’ t we ?
+Bot: I don ’ t agree with you . I maintain that we ’ re healthier , wealthier and wiser than we were a hundred years ago .
+
+User: I don ’ t agree with you . I maintain that we ’ re healthier , wealthier and wiser than we were a hundred years ago .
+Bot: That ’ s your opinion not mine .
+
+User: What do you plan to do for your birthday ?
+Bot: I want to have a picnic with my friends , Mum .
+
+User: I want to have a picnic with my friends , Mum .
+Bot: How about a party at home ? That way we can get together and celebrate it .
+
+User: How about a party at home ? That way we can get together and celebrate it .
+Bot: OK , Mum . I'll invite my friends home .
+
+User: How may I help you ?
+Bot: I would like to return this book .
+
+User: I would like to return this book .
+Bot: Is that all you need ?
+
+User: Is that all you need ?
+Bot: I also want to check out this video .
+
+User: I also want to check out this video .
+Bot: Is that all you would like to check out ?
+
+User: Is that all you would like to check out ?
+Bot: That ’ s all I need .
+
+User: That ’ s all I need .
+Bot: Do you have your library card ?
+
+User: Do you have your library card ?
+Bot: Here it is .
+
+User: Here it is .
+Bot: Make sure to take proper care of this video .
+
+User: Make sure to take proper care of this video .
+Bot: That won ’ t be a problem .
+
+User: That won ’ t be a problem .
+Bot: If you damage the video , you will be fined .
+
+User: If you damage the video , you will be fined .
+Bot: I won ’ t damage it .
+
+User: What's the matter with you then ? You look miserable .
+Bot: It's us .
+
+User: It's us .
+Bot: What do you mean by us .
+
+User: What do you mean by us .
+Bot: Well , you always say you're busy .
+
+User: Well , you always say you're busy .
+Bot: That's right .
+
+User: That's right .
+Bot: And you often go back to live with your parents and leave our son in the room by himself .
+
+User: And you often go back to live with your parents and leave our son in the room by himself .
+Bot: I ... I ... I miss my parents , also they miss me .
+
+User: I ... I ... I miss my parents , also they miss me .
+Bot: Oh I remember , I cut terrible calls , and you didn't say anything about it .
+
+User: Oh I remember , I cut terrible calls , and you didn't say anything about it .
+Bot: You mean I am groaned a few words ?
+
+User: You mean I am groaned a few words ?
+Bot: Totally not . Perhaps it's about our marriage .
+
+User: Hi , Mary . You look pale today . What's the matter with you ?
+Bot: I think I've caught a cold . Now I'm aching all over .
+
+User: I think I've caught a cold . Now I'm aching all over .
+Bot: You'd better take some medicine and have a good rest . I hope you'll be yourself pretty soon .
+
+User: You'd better take some medicine and have a good rest . I hope you'll be yourself pretty soon .
+Bot: Thank you . I suppose I should go to see a doctor .
+
+User: I feel like going for a drink , it's been a long day .
+Bot: Great idea ! Peter , I could use the drink .
+
+User: Great idea ! Peter , I could use the drink .
+Bot: How about the new bar across road ?
+
+User: How about the new bar across road ?
+Bot: Sounds good . The food there is fantastic , too .
+
+User: Sounds good . The food there is fantastic , too .
+Bot: I agree , I had lunch there last week .
+
+User: I agree , I had lunch there last week .
+Bot: excellent ! That sounds like a plan .
+
+User: Could you tell me the right time , please ?
+Bot: Well . My watch says five past two . But it ’ s no use rely on it because it has been gaining and losing these last a few days .
+
+User: Well . My watch says five past two . But it ’ s no use rely on it because it has been gaining and losing these last a few days .
+Bot: You have to go and fix it .
+
+User: You have to go and fix it .
+Bot: Yes . I will .
+
+User: does your family have a record of your ancestors ?
+Bot: sure . My mom has been working on our family tree for years . She ’ s always updating it .
+
+User: sure . My mom has been working on our family tree for years . She ’ s always updating it .
+Bot: do you have a copy of your family tree in your house ? I ’ d love to see it .
+
+User: do you have a copy of your family tree in your house ? I ’ d love to see it .
+Bot: I can show it to you now , if you like . I think it goes back about 8 generations so far .
+
+User: I can show it to you now , if you like . I think it goes back about 8 generations so far .
+Bot: that ’ s amazing . Do you have a large extended family ?
+
+User: that ’ s amazing . Do you have a large extended family ?
+Bot: I ’ Ve got 30 cousins on my mom ’ s side and 10 cousins on my dad ’ s side .
+
+User: I ’ Ve got 30 cousins on my mom ’ s side and 10 cousins on my dad ’ s side .
+Bot: are you very close to your first-cousins ?
+
+User: are you very close to your first-cousins ?
+Bot: the ones that are my age are close relatives . Now that I ’ m older , I don ’ t spend as much time with them as I used to , so I don ’ t know my younger cousins as well as the older ones .
+
+User: the ones that are my age are close relatives . Now that I ’ m older , I don ’ t spend as much time with them as I used to , so I don ’ t know my younger cousins as well as the older ones .
+Bot: I see . who ’ s the head of your household ?
+
+User: I see . who ’ s the head of your household ?
+Bot: it ’ s definitely my mother . And , her mother is definitely the matriarch of the bigger family .
+
+User: it ’ s definitely my mother . And , her mother is definitely the matriarch of the bigger family .
+Bot: that ’ s interesting . What does your grandfather think of your step-mother ?
+
+User: that ’ s interesting . What does your grandfather think of your step-mother ?
+Bot: at first , she was quite critical of her , but now that they ’ Ve been married for a few years , she ’ s starting to accept the fact that my father divorced my mother .
+
+User: at first , she was quite critical of her , but now that they ’ Ve been married for a few years , she ’ s starting to accept the fact that my father divorced my mother .
+Bot: that ’ s pretty much how you feel about your step-mother . Like grandmother , like grandson .
+
+User: Hi , Mr . Wang . Do you feel like going boating with me ?
+Bot: Sounds interesting , I haven't gone boating for some time now , and what time ?
+
+User: Sounds interesting , I haven't gone boating for some time now , and what time ?
+Bot: How about tomorrow afternoon ?
+
+User: How about tomorrow afternoon ?
+Bot: Sure . Where shall I meet you ?
+
+User: Sure . Where shall I meet you ?
+Bot: At the gate of the park .
+
+User: At the gate of the park .
+Bot: Great . I look forward to meeting you .
+
+User: Great . I look forward to meeting you .
+Bot: See you then .
+
+User: See you then .
+Bot: See you .
+
+User: I hear that you've been to the Saikei Ski Resort for the weekend . Did you enjoy it ?
+Bot: Yes , it's so exciting , though I had the most falls in our skiing team .
+
+User: Yes , it's so exciting , though I had the most falls in our skiing team .
+Bot: Isn't there any coach to teach you how to ski ?
+
+User: Isn't there any coach to teach you how to ski ?
+Bot: Of course there is . The top-level coaches there are from the State Sports General Administration .
+
+User: Of course there is . The top-level coaches there are from the State Sports General Administration .
+Bot: Could you move smoothly ?
+
+User: Could you move smoothly ?
+Bot: Yes.My face even ached in the icy wind .
+
+User: Yes.My face even ached in the icy wind .
+Bot: What happened afterwards ?
+
+User: What happened afterwards ?
+Bot: I was skiing on and on excitedly until I realized one thing-I could not stop ! You can just imagine how terrified I was .
+
+User: I was skiing on and on excitedly until I realized one thing-I could not stop ! You can just imagine how terrified I was .
+Bot: Poor girl !
+
+User: You look pale recently .
+Bot: Yeah . I have got much pressure in the company . I have tobe wrapped upon my work .
+
+User: Yeah . I have got much pressure in the company . I have tobe wrapped upon my work .
+Bot: Take good care of yourself .
+
+User: Take good care of yourself .
+Bot: Thank you . I will .
+
+User: Hey , Maggy , Did you hear about David ?
+Bot: About David ? No , I didn ’ t hear anything .
+
+User: About David ? No , I didn ’ t hear anything .
+Bot: You know , about David and his new boss .
+
+User: You know , about David and his new boss .
+Bot: Sorry , I don ’ t quite follow you .
+
+User: Sorry , I don ’ t quite follow you .
+Bot: Well , I heard David has been fired .
+
+User: Well , I heard David has been fired .
+Bot: Oh , that is a shame . He is really hard working .
+
+User: how do you usually get to school ?
+Bot: I usually ride my bike . Which form of transport do you prefer to use ?
+
+User: I usually ride my bike . Which form of transport do you prefer to use ?
+Bot: I feel that I can see more when I pedal a bicycle , but when I feel lazy , I drive my car .
+
+User: I feel that I can see more when I pedal a bicycle , but when I feel lazy , I drive my car .
+Bot: I think we should discourage people from using their private cars . They produce too much pollution !
+
+User: I think we should discourage people from using their private cars . They produce too much pollution !
+Bot: I agree , but I would find it difficult to stop using my car . It's just so convenient .
+
+User: I agree , but I would find it difficult to stop using my car . It's just so convenient .
+Bot: cars might be convenient , but they're so bad for the environment .
+
+User: cars might be convenient , but they're so bad for the environment .
+Bot: do you have a car ?
+
+User: do you have a car ?
+Bot: no . I used to have one though . Once I started using my bicycle to get around , I found that I didn't really need it .
+
+User: no . I used to have one though . Once I started using my bicycle to get around , I found that I didn't really need it .
+Bot: maybe if I sold my car now , I wouldn't be so tempted to use it .
+
+User: maybe if I sold my car now , I wouldn't be so tempted to use it .
+Bot: you could try . It would save you a lot of money .
+
+User: you could try . It would save you a lot of money .
+Bot: that's true . Every month , I spend hundreds of dollars on gas , insurance , and repairs .
+
+User: that's true . Every month , I spend hundreds of dollars on gas , insurance , and repairs .
+Bot: if you got to class by riding a bicycle every day instead of driving , you will get lots of exercise , too !
+
+User: if you got to class by riding a bicycle every day instead of driving , you will get lots of exercise , too !
+Bot: I could stand to lose a few pounds . Having a car has made me lazy . I never end up walking anywhere !
+
+User: I could stand to lose a few pounds . Having a car has made me lazy . I never end up walking anywhere !
+Bot: let's go to a car dealership . I'll help you try to sell your car for a good price .
+
+User: let's go to a car dealership . I'll help you try to sell your car for a good price .
+Bot: sounds good ! Let's go !
+
+User: What's wrong with him ?
+Bot: His nose is out of joint because we forgot to invite him to the party .
+
+User: What are you going to do for one year abroad , Tom ?
+Bot: Study , study , study . I want to learn a lot .
+
+User: Study , study , study . I want to learn a lot .
+Bot: You are going to take courses ?
+
+User: You are going to take courses ?
+Bot: Yes . I am going to take some university courses there .
+
+User: Yes . I am going to take some university courses there .
+Bot: Sounds hard .
+
+User: Sounds hard .
+Bot: Yes , but I think it's probably for the best .
+
+User: Yes , but I think it's probably for the best .
+Bot: Won ’ t you get lonely ?
+
+User: Won ’ t you get lonely ?
+Bot: Hey , I am a pretty cool guy . I will make friends , and I'll have a lot of extracurricular activities too . You know , like fencing , or theater or something .
+
+User: Isn't this lovely weather ? Will you help me water the flowers , Jack ?
+Bot: Well , do you think I have to ?
+
+User: Well , do you think I have to ?
+Bot: I do.We haven't watered them for quite a few days .
+
+User: I do.We haven't watered them for quite a few days .
+Bot: Please look at the sky.Don ' t you see the dark clouds ? It's going to rain soon .
+
+User: Please look at the sky.Don ' t you see the dark clouds ? It's going to rain soon .
+Bot: Good.So we don't have to work.How nice !
+
+User: Good.So we don't have to work.How nice !
+Bot: But I don't think it's so nice .
+
+User: But I don't think it's so nice .
+Bot: Why ?
+
+User: Why ?
+Bot: The weather report says it's going to rain for a whole week .
+
+User: The weather report says it's going to rain for a whole week .
+Bot: Oh , I'm afraid all the flowers will die in the rain .
+
+User: On , darn . The grocery store is closed .
+Bot: Yeah , this one closes at ten . We could drive to the 24 - hour store on sixth .
+
+User: Yeah , this one closes at ten . We could drive to the 24 - hour store on sixth .
+Bot: Alright . We are out of everything .
+
+User: Alright . We are out of everything .
+Bot: I wish the store close to us was open 24 - house a day .
+
+User: I wish the store close to us was open 24 - house a day .
+Bot: I know , our schedules are so weird . Sometimes , the little corner store is the only thing within walking distance that ’ s open when we get home .
+
+User: I know , our schedules are so weird . Sometimes , the little corner store is the only thing within walking distance that ’ s open when we get home .
+Bot: Yeah , and the prices there are very high .
+
+User: Yeah , and the prices there are very high .
+Bot: I know . Three dollars for milk .
+
+User: Do you think they two will get married ?
+Bot: You can count on it .
+
+User: You can count on it .
+Bot: I think so.Yes , they get along so well .
+
+User: I think so.Yes , they get along so well .
+Bot: I like him.He ' s good for her .
+
+User: I like him.He ' s good for her .
+Bot: You're right . He sure is .
+
+User: Dad , where are we off to ?
+Bot: First we will go to the city centre and stop for something to drink . Then we will visit the University Museum .
+
+User: First we will go to the city centre and stop for something to drink . Then we will visit the University Museum .
+Bot: Where are we going to have a drink ?
+
+User: Where are we going to have a drink ?
+Bot: There is a coffee shop round the corner . Can you see that big building at the end of the road ?
+
+User: There is a coffee shop round the corner . Can you see that big building at the end of the road ?
+Bot: Yes ?
+
+User: Yes ?
+Bot: That is a bank . The coffee shop is opposite the bank .
+
+User: That is a bank . The coffee shop is opposite the bank .
+Bot: Good . I will have hot chocolate .
+
+User: Good . I will have hot chocolate .
+Bot: A stop ! Wait for the lights to turn green .
+
+User: A stop ! Wait for the lights to turn green .
+Bot: When crossing the road you must always pay attention to what's around you .
+
+User: When crossing the road you must always pay attention to what's around you .
+Bot: Sorry . How far is the museum ?
+
+User: Sorry . How far is the museum ?
+Bot: I am not sure . We will ask for directions in the coffee shop .
+
+User: I am not sure . We will ask for directions in the coffee shop .
+Bot: Here we are . You find us a table and I'll get the drinks .
+
+User: How about going to the cinema tonight ?
+Bot: That's great . What's on tonight ?
+
+User: That's great . What's on tonight ?
+Bot: I am not sure about the name of the film , but I know it's a romantic one .
+
+User: I am not sure about the name of the film , but I know it's a romantic one .
+Bot: Romantic ? I am afraid I like thrillers better .
+
+User: Romantic ? I am afraid I like thrillers better .
+Bot: Don't you think it's too bloody ?
+
+User: Don't you think it's too bloody ?
+Bot: On the contrary , very exciting .
+
+User: I feel so uncomfortable .
+Bot: Are you sick ?
+
+User: Are you sick ?
+Bot: No . The teacher is dragging the chalk over the blackboard . It set my teeth on edge .
+
+User: No . The teacher is dragging the chalk over the blackboard . It set my teeth on edge .
+Bot: He ’ ll finish writing in a minute .
+
+User: I have made up my mind . I am getting a tattoo .
+Bot: Really ? Are you sure ?
+
+User: Really ? Are you sure ?
+Bot: Yeah ! Why not ? They are trendy and look great ! I want to get a dragon on my arm or maybe a tiger on my back .
+
+User: Yeah ! Why not ? They are trendy and look great ! I want to get a dragon on my arm or maybe a tiger on my back .
+Bot: Yeah but , it is something that you will have forever ! They use indelible ink that can only be removed with laser treatment . On top of all that , I have heard it hurts a lot !
+
+User: Yeah but , it is something that you will have forever ! They use indelible ink that can only be removed with laser treatment . On top of all that , I have heard it hurts a lot !
+Bot: Really ?
+
+User: Really ?
+Bot: Of course ! They use this machine with a needle that pokes your skin and inserts the ink .
+
+User: Of course ! They use this machine with a needle that pokes your skin and inserts the ink .
+Bot: Oh , I didn ’ t know that ! I thought they just paint it on your skin or something .
+
+User: Oh , I didn ’ t know that ! I thought they just paint it on your skin or something .
+Bot: I think you should reconsider and do some more research about tattoos . Also , find out where the nearest tattoo parlor is and make sure they used sterilized needles , and that the place is hygienic .
+
+User: I think you should reconsider and do some more research about tattoos . Also , find out where the nearest tattoo parlor is and make sure they used sterilized needles , and that the place is hygienic .
+Bot: Maybe I should just get a tongue piercing !
+
+User: Excuse me , what's the screen near your steering wheel for ?
+Bot: It's a portable TV . It's a popular thing now .
+
+User: It's a portable TV . It's a popular thing now .
+Bot: Oh , that's new to me . So what's on everyday ?
+
+User: Oh , that's new to me . So what's on everyday ?
+Bot: News about current affairs , documentaries , music , movies , noncommercial ads and so on .
+
+User: News about current affairs , documentaries , music , movies , noncommercial ads and so on .
+Bot: Is there anything interesting ?
+
+User: Is there anything interesting ?
+Bot: Yes , there are something good and informative . I think that many people underestimate the value of TV in education .
+
+User: Yes , there are something good and informative . I think that many people underestimate the value of TV in education .
+Bot: I agree . Are there any commercials on the TV ?
+
+User: I agree . Are there any commercials on the TV ?
+Bot: Of course . Because the TV stations need to make money from commercials between the programs .
+
+User: Of course . Because the TV stations need to make money from commercials between the programs .
+Bot: That makes a lot of sense . Does the TV work well ?
+
+User: That makes a lot of sense . Does the TV work well ?
+Bot: Not always . It depends on the transmission of the satellite signals .
+
+User: Not always . It depends on the transmission of the satellite signals .
+Bot: I got it . Do you pay for the programs ?
+
+User: I got it . Do you pay for the programs ?
+Bot: Yes , 50 Yuan per month .
+
+User: Oh , no !
+Bot: How dreadful !
+
+User: How dreadful !
+Bot: Look at the view from the window .
+
+User: Look at the view from the window .
+Bot: Oh , dear . That ’ s terrible . Not at all what I expected .
+
+User: Oh , dear . That ’ s terrible . Not at all what I expected .
+Bot: It ’ s awful , isn ’ t it ?
+
+User: It ’ s awful , isn ’ t it ?
+Bot: I can ’ t bear to look at it . I ’ m rather disappointed .
+
+User: I can ’ t bear to look at it . I ’ m rather disappointed .
+Bot: It can ’ t be helped .
+
+User: What do you do in your free time , Nancy ?
+Bot: Well , I like playing the violin .
+
+User: Well , I like playing the violin .
+Bot: Really ? How long have you been playing the violin ?
+
+User: Really ? How long have you been playing the violin ?
+Bot: About ten years so far . I started learning when I was in middle school .
+
+User: About ten years so far . I started learning when I was in middle school .
+Bot: That's really interesting .
+
+User: That's really interesting .
+Bot: Sure . So what about you ? Do you have any hobbies ?
+
+User: Sure . So what about you ? Do you have any hobbies ?
+Bot: Well , I like collecting matchbox ! I'm not sure if that counts , though .
+
+User: Well , I like collecting matchbox ! I'm not sure if that counts , though .
+Bot: Of course it does . Everybody has his own hobby .
+
+User: How can I tell her about this ?
+Bot: Don't worry , you'll find a way .
+
+User: Don't worry , you'll find a way .
+Bot: There is no need to be so frustrated .
+
+User: There is no need to be so frustrated .
+Bot: How can you live without job in the future ?
+
+User: How can you live without job in the future ?
+Bot: Don't worry , you'll find a way .
+
+User: What sports do you like to play ?
+Bot: I like baseball and basketball .
+
+User: I like baseball and basketball .
+Bot: How about football ?
+
+User: How about football ?
+Bot: In my country football is brand new , so I never learned the game when I was younger .
+
+User: In my country football is brand new , so I never learned the game when I was younger .
+Bot: It's a very popular game in America .
+
+User: It's a very popular game in America .
+Bot: Yeah . I heard a lot about it . Is it really that fun ?
+
+User: Yeah . I heard a lot about it . Is it really that fun ?
+Bot: For me , it's one of those games that are fun to both watch and play .
+
+User: For me , it's one of those games that are fun to both watch and play .
+Bot: Are you a football player ?
+
+User: Are you a football player ?
+Bot: No , I just for fun with my friends . We play two hand touch or flag football . We're too old to play tackle football .
+
+User: No , I just for fun with my friends . We play two hand touch or flag football . We're too old to play tackle football .
+Bot: What is two hand touch and flag football ?
+
+User: What is two hand touch and flag football ?
+Bot: Instead of tackling somebody , you just have to touch them with two hands , or if it is flag football , grab the flag that the ball carrier is wearing .
+
+User: Instead of tackling somebody , you just have to touch them with two hands , or if it is flag football , grab the flag that the ball carrier is wearing .
+Bot: I see . It's safer then right ?
+
+User: I see . It's safer then right ?
+Bot: Exactly . We play every Saturdays on the field by the tennis courts . If you want to learn and play a little , you're welcome to join us .
+
+User: Exactly . We play every Saturdays on the field by the tennis courts . If you want to learn and play a little , you're welcome to join us .
+Bot: I'll give it a try . Give me a call and let's go down together .
+
+User: I'll give it a try . Give me a call and let's go down together .
+Bot: Ok . I'll call you Saturday morning .
+
+User: Ok . I'll call you Saturday morning .
+Bot: Great .
+
+User: What upsets you ?
+Bot: My parents called . As usual , they reminded me again that I should have a plan to marry by my late 20s . Easier said then done . Who should I marry ? I have no time to go on a date .
+
+User: My parents called . As usual , they reminded me again that I should have a plan to marry by my late 20s . Easier said then done . Who should I marry ? I have no time to go on a date .
+Bot: It is not your mother finding one for you ?
+
+User: It is not your mother finding one for you ?
+Bot: I will find one myself , of course . I ’ m a modern girl .
+
+User: I will find one myself , of course . I ’ m a modern girl .
+Bot: Perhaps you can try the three minutes date , the latest type .
+
+User: Perhaps you can try the three minutes date , the latest type .
+Bot: You mean dozens of the opposite sex meet each other for three minutes in a dimly bar serving alcohol , I hate that idea .
+
+User: You mean dozens of the opposite sex meet each other for three minutes in a dimly bar serving alcohol , I hate that idea .
+Bot: No , there is an updated virgin , three minutes video date . I know an online dating website providing such service with a microphone and webcam , you can sigh for it . You can be face-to-face with a guy talking for maximum three minutes .
+
+User: No , there is an updated virgin , three minutes video date . I know an online dating website providing such service with a microphone and webcam , you can sigh for it . You can be face-to-face with a guy talking for maximum three minutes .
+Bot: I don ’ t think it makes sense . Three minutes is such a short time .
+
+User: I don ’ t think it makes sense . Three minutes is such a short time .
+Bot: I think you can find out if there is a possibility of romance within the first second of meeting someone , so-called love at first sight .
+
+User: I think you can find out if there is a possibility of romance within the first second of meeting someone , so-called love at first sight .
+Bot: Anyway , I don ’ t want to post my face up for sale on the internet like that .
+
+User: Anyway , I don ’ t want to post my face up for sale on the internet like that .
+Bot: Don ’ t worry . There are many other options using the internet as dating methods . Some sites operate at international standard even have got certifications . Of course , for these sites , you have to pay a membership fee . But all in all , it is more serious and professional . The chance of meeting a good and serious person who does not play games is higher .
+
+User: Don ’ t worry . There are many other options using the internet as dating methods . Some sites operate at international standard even have got certifications . Of course , for these sites , you have to pay a membership fee . But all in all , it is more serious and professional . The chance of meeting a good and serious person who does not play games is higher .
+Bot: I don ’ t want to post my personal information on the internet . I ’ m not knowing who is reading it .
+
+User: Are you going to the party on Saturday ?
+Bot: I was thinking about it . Are you ?
+
+User: I was thinking about it . Are you ?
+Bot: Yeah , I heard it's going to be a lot of fun .
+
+User: Yeah , I heard it's going to be a lot of fun .
+Bot: Really ? Well , what time does it start ?
+
+User: Really ? Well , what time does it start ?
+Bot: It starts at 8
+
+User: It starts at 8
+Bot: Well , who all is going to be there ?
+
+User: Well , who all is going to be there ?
+Bot: Everyone from school .
+
+User: Everyone from school .
+Bot: How do you know it's going to be so fun ?
+
+User: How do you know it's going to be so fun ?
+Bot: This party is going to have a DJ , food , and drinks .
+
+User: This party is going to have a DJ , food , and drinks .
+Bot: Wow , that does sound like it's going to be fun .
+
+User: Wow , that does sound like it's going to be fun .
+Bot: So am I going to see you at the party ?
+
+User: So am I going to see you at the party ?
+Bot: Yeah , I will be there .
+
+User: Could you talk to me for a few minutes about my grades ?
+Bot: Step into my office for a moment . What is your concern ?
+
+User: Step into my office for a moment . What is your concern ?
+Bot: Am I failing ?
+
+User: Am I failing ?
+Bot: Let's go on the computer to see what's up . Do you think you are doing well ?
+
+User: Let's go on the computer to see what's up . Do you think you are doing well ?
+Bot: I am pretty sure that I am in trouble .
+
+User: I am pretty sure that I am in trouble .
+Bot: I can see that you are trying , but where do you think you could improve ?
+
+User: I can see that you are trying , but where do you think you could improve ?
+Bot: I missed a few classes ; I need to make sure I come to school on a regular basis .
+
+User: I missed a few classes ; I need to make sure I come to school on a regular basis .
+Bot: Having a regular study routine and following it is very important , right ?
+
+User: Having a regular study routine and following it is very important , right ?
+Bot: I'll try ; it's hard !
+
+User: I'll try ; it's hard !
+Bot: Thanks for stopping by !
+
+User: Good luck on your test tomorrow . We'll be crossing our fingers for you !
+Bot: Thanks .
+
+User: I'll never ever work together with him !
+Bot: What happened ? Quarrel again ?
+
+User: What happened ? Quarrel again ?
+Bot: Will you take my materials back from him for me ? Please !
+
+User: Will you take my materials back from him for me ? Please !
+Bot: Don't ask me . I don't wanna be involved in your quarrel .
+
+User: Oh , my God ! I've been cheated !
+Bot: What ? What did you buy ?
+
+User: What ? What did you buy ?
+Bot: It's a brick ! I can't believe how stupid I was . Damn it !
+
+User: It's a brick ! I can't believe how stupid I was . Damn it !
+Bot: What is it ? Why did you buy a brick ?
+
+User: What is it ? Why did you buy a brick ?
+Bot: There was a guy on the sidewalk.He had three new boxes , Panasonic video camera boxes.He said he had to get rid of them quick .
+
+User: There was a guy on the sidewalk.He had three new boxes , Panasonic video camera boxes.He said he had to get rid of them quick .
+Bot: And ?
+
+User: And ?
+Bot: So he said he'd sell me one for twenty dollars . A four-hundred-dollar camera for twenty bucks .
+
+User: So he said he'd sell me one for twenty dollars . A four-hundred-dollar camera for twenty bucks .
+Bot: And it's a brick ?
+
+User: And it's a brick ?
+Bot: Yes .
+
+User: Yes .
+Bot: I can't believe how stupid you are . Why didn't you open the box ?
+
+User: I can't believe how stupid you are . Why didn't you open the box ?
+Bot: I wanted to . But he said , no , the box is still in its plastic wrap from the store.If it's opened , other people won't believe it's new .
+
+User: I wanted to . But he said , no , the box is still in its plastic wrap from the store.If it's opened , other people won't believe it's new .
+Bot: So he had the boxes wrapped in plastic .
+
+User: So he had the boxes wrapped in plastic .
+Bot: Yes , it was the kind of perfect plastic wrap that comes with new products.Look , it even had a bar-code price sticker on it ! It looked brand new .
+
+User: Yes , it was the kind of perfect plastic wrap that comes with new products.Look , it even had a bar-code price sticker on it ! It looked brand new .
+Bot: But why would a guy be selling new video cameras for twenty dollars ?
+
+User: But why would a guy be selling new video cameras for twenty dollars ?
+Bot: He said he had to get rid of them . They were stolen .
+
+User: He said he had to get rid of them . They were stolen .
+Bot: Aha ! Now I understand.You were trying to buy stolen goods on the sidewalk.So , what I think is , you deserve to get cheated !
+
+User: Aha ! Now I understand.You were trying to buy stolen goods on the sidewalk.So , what I think is , you deserve to get cheated !
+Bot: C'mon , don't blame me ! I thought it was a new camera . We could use it.We were even thinking about buying a camera . I don't understand how he could have such a perfect-looking box .
+
+User: C'mon , don't blame me ! I thought it was a new camera . We could use it.We were even thinking about buying a camera . I don't understand how he could have such a perfect-looking box .
+Bot: That's no problem.He just has a friend who works in a shop that can do plastic wrap . That's easy.And probably it's the same shop he got the boxes from.Maybe his friend works in an electronics store . They sell video cameras there.Probably they had a couple video camera boxes lying around.So they get the idea of wrapping bricks to sell to fools like you.Twenty dollars a brick . That's a good profit if they can sell enough bricks .
+
+User: That's no problem.He just has a friend who works in a shop that can do plastic wrap . That's easy.And probably it's the same shop he got the boxes from.Maybe his friend works in an electronics store . They sell video cameras there.Probably they had a couple video camera boxes lying around.So they get the idea of wrapping bricks to sell to fools like you.Twenty dollars a brick . That's a good profit if they can sell enough bricks .
+Bot: You're right , Sarah . I was a fool . I can't believe it . How could I fall for such a trick ?
+
+User: Is the clock right ?
+Bot: I'm afraid it gains a little .
+
+User: I'm afraid it gains a little .
+Bot: By how many minutes ?
+
+User: By how many minutes ?
+Bot: Two .
+
+User: Hey , Mary , what's up ?
+Bot: Just so so . Last night I met this great guy at the bar and we had such a wonderful time , so we decided to meet again tonight .
+
+User: Just so so . Last night I met this great guy at the bar and we had such a wonderful time , so we decided to meet again tonight .
+Bot: Oh , that's exciting . What does this guy look like ? Is he hot ?
+
+User: Oh , that's exciting . What does this guy look like ? Is he hot ?
+Bot: Well , I didn't think so at first . But as we started talking , I found him extremely funny and witty . I couldn't stop laughing at his jokes ! And we have so much in common . We like the same team , music , and most amazingly , we both love Chinese food ! I have the feeling that we are going to be great friends .
+
+User: Well , I didn't think so at first . But as we started talking , I found him extremely funny and witty . I couldn't stop laughing at his jokes ! And we have so much in common . We like the same team , music , and most amazingly , we both love Chinese food ! I have the feeling that we are going to be great friends .
+Bot: It seems you two are a good match . What qualities do you look for in a friend ?
+
+User: It seems you two are a good match . What qualities do you look for in a friend ?
+Bot: There's nothing definite I think . I don't have a list or anything , but when I first meet somebody , I can usually tell whether or not that person is going to be a good friend . It seems I have radar helping me spot new friends .
+
+User: There's nothing definite I think . I don't have a list or anything , but when I first meet somebody , I can usually tell whether or not that person is going to be a good friend . It seems I have radar helping me spot new friends .
+Bot: Well , that's something I've never heard of . But if you ask me what I value most in a friend , I would say honesty .
+
+User: Well , that's something I've never heard of . But if you ask me what I value most in a friend , I would say honesty .
+Bot: I agree . You can't expect a close relationship with a dishonest person . Those are the people that will turn their back on you when you are in need .
+
+User: I agree . You can't expect a close relationship with a dishonest person . Those are the people that will turn their back on you when you are in need .
+Bot: Yeah , I know . A friend in need is a friend indeed . I don't need fair-weather friends either .
+
+User: What ’ s up ? You don ’ t look too good .
+Bot: Yeah , my head hurts , that ’ s all . I ’ Ve been in physics class all day . It ’ s killer !
+
+User: Yeah , my head hurts , that ’ s all . I ’ Ve been in physics class all day . It ’ s killer !
+Bot: I liked physics . It ’ s all math , really . arcs , curves , velocity , cool stuff .
+
+User: I liked physics . It ’ s all math , really . arcs , curves , velocity , cool stuff .
+Bot: Yeah , yeah , but today ’ s lesson was all about the creation of the universe .
+
+User: Yeah , yeah , but today ’ s lesson was all about the creation of the universe .
+Bot: A physics class about the creation of the universe ? That ’ s some pretty unscientific language there . Sounds more religious to me .
+
+User: A physics class about the creation of the universe ? That ’ s some pretty unscientific language there . Sounds more religious to me .
+Bot: It ’ s all religion . Take the theory of the Big Bang.How is it possible that all of the stuff in the universe comes from an explosion ? That ’ s no better than Atlas carrying the globe on his back or African myths about turtles and stuff .
+
+User: It ’ s all religion . Take the theory of the Big Bang.How is it possible that all of the stuff in the universe comes from an explosion ? That ’ s no better than Atlas carrying the globe on his back or African myths about turtles and stuff .
+Bot: Turtles ? Whatever ... Look , all that ’ s required for the creation of matter an imbalance of particles and anti-particles . At least , that ’ s what the math says .
+
+User: Turtles ? Whatever ... Look , all that ’ s required for the creation of matter an imbalance of particles and anti-particles . At least , that ’ s what the math says .
+Bot: Math , sheath . What ’ s the evidence ?
+
+User: Math , sheath . What ’ s the evidence ?
+Bot: There is evidence ! You know Edwin Hubble ? He ’ s the guy who in the early twentieth century was the first scientist to measure the drift of matter in the universe , thus advancing notions of an expanding universe . What would it be expanding from ? Well , the Big Bang ... DUH !
+
+User: There is evidence ! You know Edwin Hubble ? He ’ s the guy who in the early twentieth century was the first scientist to measure the drift of matter in the universe , thus advancing notions of an expanding universe . What would it be expanding from ? Well , the Big Bang ... DUH !
+Bot: Anyway , it ’ s just a theory . Why do people go around touting theories ? Where ’ s the scientific rigor in that ?
+
+User: Anyway , it ’ s just a theory . Why do people go around touting theories ? Where ’ s the scientific rigor in that ?
+Bot: Dude , don ’ t equivocate . A theory only becomes a theory after withstanding rigorous testing . You slept through class , didn ’ t you ?
+
+User: Today more and more people advocate lifelong learning . But people have different views about lifelong learning . How do you understand lifelong learning ?
+Bot: I think lifelong learning is the concept that it's never too soon or too late for learning
+
+User: I think lifelong learning is the concept that it's never too soon or too late for learning
+Bot: Does that mean studying all the time ?
+
+User: Does that mean studying all the time ?
+Bot: I don't think so . I think it's about your attitude towards learning . One should be open to new ideas , decisions , skills or behaviors .
+
+User: I don't think so . I think it's about your attitude towards learning . One should be open to new ideas , decisions , skills or behaviors .
+Bot: Then the axiom - ' You can't teach an old dog new tricks ' doesn't work any longer .
+
+User: Then the axiom - ' You can't teach an old dog new tricks ' doesn't work any longer .
+Bot: You're right . Lifelong learning is about finding learning opportunities at all ages and in numerous contexts
+
+User: You're right . Lifelong learning is about finding learning opportunities at all ages and in numerous contexts
+Bot: Yes , I agree with you . When I retired I will participate in programs to keep momentally active .
+
+User: Yes , I agree with you . When I retired I will participate in programs to keep momentally active .
+Bot: Me too . To keep up with the changing world , one must be involved in lifelong learning and be ready to accept new things .
+
+User: Me too . To keep up with the changing world , one must be involved in lifelong learning and be ready to accept new things .
+Bot: You know what ? I've recently been teaching myself French .
+
+User: You know what ? I've recently been teaching myself French .
+Bot: Really ? That's great ! I know that your company has a lot of clients in France .
+
+User: Really ? That's great ! I know that your company has a lot of clients in France .
+Bot: Yes , so I want to learn French to develop my career .
+
+User: How old are you ?
+Bot: Nine ... but I'll be ten on May 1st.When is your birthday ?
+
+User: Nine ... but I'll be ten on May 1st.When is your birthday ?
+Bot: I'm older than you ! I'll be ten on April 14th .
+
+User: I'm older than you ! I'll be ten on April 14th .
+Bot: Are you going to have a birthday party ?
+
+User: Are you going to have a birthday party ?
+Bot: Maybe . I'll have to ask my mother .
+
+User: It smells like an ashtray in here !
+Bot: Hi honey ! What ’ s wrong ? Why do you have that look on your face ?
+
+User: Hi honey ! What ’ s wrong ? Why do you have that look on your face ?
+Bot: What ’ s wrong ? I thought we agreed that you were gonna quit smoking .
+
+User: What ’ s wrong ? I thought we agreed that you were gonna quit smoking .
+Bot: No ! I said I was going to cut down which is very different . You can ’ t just expect me to go cold turkey overnight !
+
+User: No ! I said I was going to cut down which is very different . You can ’ t just expect me to go cold turkey overnight !
+Bot: Look , there are other ways to quit . You can try the nicotine patch , or nicotine chewing gum . We spend a fortune on cigarettes every month and now laws are cracking down and not allowing smoking in any public place . It ’ s not like you can just light up like before .
+
+User: Look , there are other ways to quit . You can try the nicotine patch , or nicotine chewing gum . We spend a fortune on cigarettes every month and now laws are cracking down and not allowing smoking in any public place . It ’ s not like you can just light up like before .
+Bot: I know , I know . I am trying but , I don ’ t have the willpower to just quit . I can ’ t fight with the urge to reach for my pack of smokes in the morning with coffee or after lunch ! Please understand ?
+
+User: I know , I know . I am trying but , I don ’ t have the willpower to just quit . I can ’ t fight with the urge to reach for my pack of smokes in the morning with coffee or after lunch ! Please understand ?
+Bot: Fine ! I want a divorce !
+
+User: Why are you shivering ?
+Bot: It's freezing .
+
+User: It seems that you get antsy when you hear I praise another guy .
+Bot: I get antsy not because you praise a guy , but because you may be taken for a ride by a guy like him .
+
+User: I get antsy not because you praise a guy , but because you may be taken for a ride by a guy like him .
+Bot: How come you think of him that way ?
+
+User: How come you think of him that way ?
+Bot: Because you seem to have lost your vigilance . You should be on the watch out .
+
+User: Because you seem to have lost your vigilance . You should be on the watch out .
+Bot: I have no reason to distrust him . He's never caused any harm .
+
+User: I have no reason to distrust him . He's never caused any harm .
+Bot: Isn't there anything that sounds fishy ?
+
+User: Isn't there anything that sounds fishy ?
+Bot: Nothing smells a rat . I told you that he's an all-right guy .
+
+User: Nothing smells a rat . I told you that he's an all-right guy .
+Bot: All-right guy ? All right . Let's talk about something else instead .
+
+User: Cheese ! It tastes like cardboard .
+Bot: I think so . Maybe that ’ s why it ’ s cheap here .
+
+User: Have you signed up to join the company ’ s Christmas party ?
+Bot: Sure , I have . Will you join ?
+
+User: Sure , I have . Will you join ?
+Bot: I will . You know , as a newcomer , I think it might be a good opportunity to get to know people from the other departments of our company in a more relaxed atmosphere .
+
+User: I will . You know , as a newcomer , I think it might be a good opportunity to get to know people from the other departments of our company in a more relaxed atmosphere .
+Bot: You are right . Our company ’ s Christmas party has always been an amazing occasion for everybody to relax and get to know each other better . It is also a time to make new friends and do some networking .
+
+User: You are right . Our company ’ s Christmas party has always been an amazing occasion for everybody to relax and get to know each other better . It is also a time to make new friends and do some networking .
+Bot: I hope that it is not a formal one when the boss is there .
+
+User: I hope that it is not a formal one when the boss is there .
+Bot: No , it will not be formal at all . It is a fun time . You will love the game show . Please dress casually . Usually there is an over abandon of drinks , so be careful with that .
+
+User: No , it will not be formal at all . It is a fun time . You will love the game show . Please dress casually . Usually there is an over abandon of drinks , so be careful with that .
+Bot: Don ’ t worry , I can handle that . And I know if the boss is there , even it is an informal evening , it does not make a good impression to get totally drunk in front of him .
+
+User: If the weatherman's predictions are accurate , it should rain tomorrow .
+Bot: I hope not . Then we'd have to reschedule our baseball game .
+
+User: hi , Emily , do you know that guy over there ?
+Bot: The tall one ? Sure , that's Drive , he works with Lily .
+
+User: The tall one ? Sure , that's Drive , he works with Lily .
+Bot: He is cute.What dose he do ?
+
+User: He is cute.What dose he do ?
+Bot: I'm not sure , he is a manager I think .
+
+User: I'm not sure , he is a manager I think .
+Bot: Really ? Are you going to introduce us ?
+
+User: Really ? Are you going to introduce us ?
+Bot: Well , he has already taken you know , that's his wife right there .
+
+User: You didn't ring me last night . You said you would .
+Bot: I'm sorry to have made you disappointed .
+
+User: I'm sorry to have made you disappointed .
+Bot: That's all right . But why were you so rude to me at lunch .
+
+User: That's all right . But why were you so rude to me at lunch .
+Bot: Was I ? Sorry , I didn ’ t mean to be . I do apologize .
+
+User: Was I ? Sorry , I didn ’ t mean to be . I do apologize .
+Bot: And why are you yarning now ? Are you bored ?
+
+User: And why are you yarning now ? Are you bored ?
+Bot: Forgive me darling . I'm very tired .
+
+User: Hi , Nicole . Did you have a good weekend ?
+Bot: Yes , I did . But I feel tired today .
+
+User: Yes , I did . But I feel tired today .
+Bot: Really ? Why ?
+
+User: Really ? Why ?
+Bot: Well , on Saturday I cleaned the house and played tennis . Then on Sunday I hiked in the country .
+
+User: Well , on Saturday I cleaned the house and played tennis . Then on Sunday I hiked in the country .
+Bot: And I bet you studied , too .
+
+User: And I bet you studied , too .
+Bot: Yeah . I studied on Sunday evening . What about you ?
+
+User: Yeah . I studied on Sunday evening . What about you ?
+Bot: Well , I didn't clean the house and I didn't study . I stayed in bed and watched TV .
+
+User: Well , I didn't clean the house and I didn't study . I stayed in bed and watched TV .
+Bot: That sounds like fun , but did you exercise ?
+
+User: That sounds like fun , but did you exercise ?
+Bot: Sort of . I played golf on my computer !
+
+User: There will be a parade to celebrate National Day this weekend .
+Bot: What's the route ?
+
+User: What's the route ?
+Bot: From Zhongshan Circus to City Bank .
+
+User: From Zhongshan Circus to City Bank .
+Bot: If only I could join it !
+
+User: Excuse me . I'm afraid you're in my seat . You've moved my books .
+Bot: Oh , dear .
+
+User: Oh , dear .
+Bot: You must have realized somebody was here .
+
+User: You must have realized somebody was here .
+Bot: Oh , well , I looked around . There wasn't any other space . I waited a while and nobody came . I'm sorry if I've taken your place .
+
+User: What ’ s the life expectancy in your country ?
+Bot: I ’ m not sure , but probably about 75 years . How about in your country ?
+
+User: I ’ m not sure , but probably about 75 years . How about in your country ?
+Bot: About 70 , I think . This newspaper article talks about the problems of an aging population . It ’ s a problem that will soon affect most of the world .
+
+User: About 70 , I think . This newspaper article talks about the problems of an aging population . It ’ s a problem that will soon affect most of the world .
+Bot: I heard that the government might need to increase the retirement age , because otherwise there will not be enough workers to support the young and the elderly .
+
+User: I heard that the government might need to increase the retirement age , because otherwise there will not be enough workers to support the young and the elderly .
+Bot: Perhaps we need to have more babies ! Tina gave birth to a baby boy yesterday .
+
+User: Perhaps we need to have more babies ! Tina gave birth to a baby boy yesterday .
+Bot: Did she ? That ’ s great . However , if we have too many children , that will have a bad effect on the enviroment .
+
+User: Did she ? That ’ s great . However , if we have too many children , that will have a bad effect on the enviroment .
+Bot: How ’ s your son these days ?
+
+User: How ’ s your son these days ?
+Bot: Oh , he ’ s fine . Kids seem to grow up very quickly nowadays .
+
+User: Oh , he ’ s fine . Kids seem to grow up very quickly nowadays .
+Bot: He ’ ll be a teenager before you know it ! Teenagers are often rebellious ! When do you mine it is a good age to have a child ?
+
+User: He ’ ll be a teenager before you know it ! Teenagers are often rebellious ! When do you mine it is a good age to have a child ?
+Bot: I had mine when I was 24 . that ’ s a little young . I ’ d suggest you wait until you are in your late twenties . , or even in your early thirties if you have a good career .
+
+User: I had mine when I was 24 . that ’ s a little young . I ’ d suggest you wait until you are in your late twenties . , or even in your early thirties if you have a good career .
+Bot: Yes , I think you ’ re right . I ’ m thinking about having a child , but not just yet .
+
+User: Yes , I think you ’ re right . I ’ m thinking about having a child , but not just yet .
+Bot: Is there a big generation gap between parents and their children in you country ?
+
+User: Is there a big generation gap between parents and their children in you country ?
+Bot: Yes , there is . Teenagers do not want to live traditional lives . They want to go out , have fun , and explore the world . They want to develop their own view of life . Parents usually try to discourage them , but they don ’ t often succeed .
+
+User: Yes , there is . Teenagers do not want to live traditional lives . They want to go out , have fun , and explore the world . They want to develop their own view of life . Parents usually try to discourage them , but they don ’ t often succeed .
+Bot: Parents usually give their children more freedom in my country . Sometimes they give them too much freedom .
+
+User: Parents usually give their children more freedom in my country . Sometimes they give them too much freedom .
+Bot: It ’ s almost impossible to get the right balance . If you are too strict , kids might ignore you . If you are too lenient , they might go wild .
+
+User: I'm going to Japan this year on vacation .
+Bot: Have you ever been to America ?
+
+User: Have you ever been to America ?
+Bot: No , but I'd really like to .
+
+User: No , but I'd really like to .
+Bot: You'd like it .
+
+User: Hey , Mark , long time no see .
+Bot: Julie ! It's good to see you again . How have you been ?
+
+User: Julie ! It's good to see you again . How have you been ?
+Bot: Great . I just got back from a week's vacation in Thailand .
+
+User: Great . I just got back from a week's vacation in Thailand .
+Bot: Really ? How was it ?
+
+User: Really ? How was it ?
+Bot: Fantastic ! I didn't want to come back .
+
+User: Fantastic ! I didn't want to come back .
+Bot: I hear the beaches in Thailand are beautiful .
+
+User: I hear the beaches in Thailand are beautiful .
+Bot: They are . And not only that the people are friendly , but also the food is delicious , not to mention cheap .
+
+User: They are . And not only that the people are friendly , but also the food is delicious , not to mention cheap .
+Bot: I do like Thai food . Did you see much of Bangkok ?
+
+User: I do like Thai food . Did you see much of Bangkok ?
+Bot: Not much . I've got enough city life in Beijing .
+
+User: Not much . I've got enough city life in Beijing .
+Bot: I know what you mean . I could use a vacation myself .
+
+User: I know what you mean . I could use a vacation myself .
+Bot: Hey , wouldn't it be great if we could go to Thailand together sometime ?
+
+User: Hey , wouldn't it be great if we could go to Thailand together sometime ?
+Bot: Yeah , it sure would .
+
+User: Could I see the manager please ? I have a complaint to make .
+Bot: Yes , I ’ m the manager here . What can I do for you , Madam ?
+
+User: Yes , I ’ m the manager here . What can I do for you , Madam ?
+Bot: Did you have the room checked before we move in ?
+
+User: Did you have the room checked before we move in ?
+Bot: Which room are you in ?
+
+User: Which room are you in ?
+Bot: 1808 . The toilet doesn ’ t work properly , the water doesn ’ t run in the shower .
+
+User: 1808 . The toilet doesn ’ t work properly , the water doesn ’ t run in the shower .
+Bot: I ’ m awfully sorry to hear that . I ’ ll turn to it right away .
+
+User: Congratulations , Vivian . You won the grand prize , again .
+Bot: Isn't it just great ! I just knew I'd win !
+
+User: Isn't it just great ! I just knew I'd win !
+Bot: You did ? How ? Did you wear red underwear again this year ?
+
+User: You did ? How ? Did you wear red underwear again this year ?
+Bot: Not only that !
+
+User: Not only that !
+Bot: Tell me ! Tell me ! What's your secret ? !
+
+User: Tell me ! Tell me ! What's your secret ? !
+Bot: OK , OK . I'll whisper it to you , but you have to promise not to tell anyone !
+
+User: OK , OK . I'll whisper it to you , but you have to promise not to tell anyone !
+Bot: What ? ! You did that ? ? ! ! !
+
+User: We are going to the concert this evening . Will you join us .
+Bot: I'm very sorry I can't .
+
+User: I'm very sorry I can't .
+Bot: Why not ?
+
+User: Why not ?
+Bot: I've been snowed under with since my bosses away on business .
+
+User: You'v been work here for nearly a month , how do you feel about the job ?
+Bot: Not bad.Thank you for your help . I am always busy with this job , I feel a bit tired .
+
+User: Not bad.Thank you for your help . I am always busy with this job , I feel a bit tired .
+Bot: I had the same feeling when I first came to work here . but after a period of time , I feel better , I am sure you ' ll get used to this busy job .
+
+User: I had the same feeling when I first came to work here . but after a period of time , I feel better , I am sure you ' ll get used to this busy job .
+Bot: I also feel that work efficiency here is very high . and you have strong working ability and professional skill , it seems that you know all , that's really wonderful !
+
+User: I also feel that work efficiency here is very high . and you have strong working ability and professional skill , it seems that you know all , that's really wonderful !
+Bot: You know the phrase , the survival the fittest . We have no choices .
+
+User: You know the phrase , the survival the fittest . We have no choices .
+Bot: That's right , I have to work hard .
+
+User: The music is on.May I have the pleasure to dance with you ?
+Bot: Sorry , I'm engaged for the foxtrot.Will the next Walls be all right ?
+
+User: Sorry , I'm engaged for the foxtrot.Will the next Walls be all right ?
+Bot: Certainly .
+
+User: Excuse me , is this seat taken ?
+Bot: No , please feel free .
+
+User: No , please feel free .
+Bot: Thanks a lot .
+
+User: Thanks a lot .
+Bot: Do you work in Shanghai ?
+
+User: Do you work in Shanghai ?
+Bot: Yes I do . How about you ?
+
+User: Yes I do . How about you ?
+Bot: No , I'm a tourist . This place is amazing ! It's much bigger than I imagined , and much more exciting ! There's so much to see here .
+
+User: No , I'm a tourist . This place is amazing ! It's much bigger than I imagined , and much more exciting ! There's so much to see here .
+Bot: You can say that again ! It's much more modern than people imagine . Where are you from ?
+
+User: You can say that again ! It's much more modern than people imagine . Where are you from ?
+Bot: Um , well let's see ... I'm from Kansas originally . A much quieter and more peaceful place than here , that's for sure !
+
+User: Um , well let's see ... I'm from Kansas originally . A much quieter and more peaceful place than here , that's for sure !
+Bot: Uh huh ...
+
+User: Look at this headline , Soo Mi .
+Bot: Wow ! So many people in the United States get divorced !
+
+User: Wow ! So many people in the United States get divorced !
+Bot: Is it the same in Korea ?
+
+User: Is it the same in Korea ?
+Bot: I don't think so . In Korea some marriages break up , but most couples stay together .
+
+User: I don't think so . In Korea some marriages break up , but most couples stay together .
+Bot: Do people get married young ?
+
+User: Do people get married young ?
+Bot: Not really . Very few people get married beforethe age of 20 .
+
+User: Not really . Very few people get married beforethe age of 20 .
+Bot: Hmm . Do women usually work after they get married ?
+
+User: Hmm . Do women usually work after they get married ?
+Bot: No , a lot of women stay home and take care of their families . But some work .
+
+User: Boy ! What a beauty ! I fall in love with her at the first sight .
+Bot: The beauty under the tree ?
+
+User: The beauty under the tree ?
+Bot: Of course.No girl is more charming .
+
+User: Of course.No girl is more charming .
+Bot: She is a young man !
+
+User: Excuse me.Where do I register ?
+Bot: Oh , over there in Pacific Pavilion .
+
+User: Oh , over there in Pacific Pavilion .
+Bot: Is that the large , white building ?
+
+User: Is that the large , white building ?
+Bot: Yeah , that's it .
+
+User: Yeah , that's it .
+Bot: Thanks .
+
+User: How was your education going on in Australia ?
+Bot: I'm going to graduate this summer .
+
+User: I'm going to graduate this summer .
+Bot: Where are you going to work then , in Australia or back in China ?
+
+User: Where are you going to work then , in Australia or back in China ?
+Bot: I'm planning to return to China after graduation .
+
+User: I'm planning to return to China after graduation .
+Bot: Why are you choosing to leave a foreign country ? Many people are reluctant to leave the superior living environment abroad .
+
+User: Why are you choosing to leave a foreign country ? Many people are reluctant to leave the superior living environment abroad .
+Bot: Well , I think personal development is much more important than simply having a superior living environment .
+
+User: Well , I think personal development is much more important than simply having a superior living environment .
+Bot: Yeah , China's developing so fast and development opportunities can be found almost in every corner of the country .
+
+User: Do you have any particular hobbies , Tom ?
+Bot: Oh , yes . I love playing badminton , table tennis and computer games . And playing the games has become my favorite .
+
+User: Oh , yes . I love playing badminton , table tennis and computer games . And playing the games has become my favorite .
+Bot: I hear many teenagers will spend hours and hours sitting at computers . And they don't care about their own health at all . How about you ?
+
+User: I hear many teenagers will spend hours and hours sitting at computers . And they don't care about their own health at all . How about you ?
+Bot: I'm no better than them . They say it's mindless to sit in front of a machine all the time , but I think it's stimulating .
+
+User: I'm no better than them . They say it's mindless to sit in front of a machine all the time , but I think it's stimulating .
+Bot: You won't play online games full of violence , will you ?
+
+User: You won't play online games full of violence , will you ?
+Bot: Once in a while .
+
+User: Once in a while .
+Bot: It's no good . And I think spending several hours each day playing computer games is a waste of time . You might as well do something healthy and meaningful .
+
+User: It's no good . And I think spending several hours each day playing computer games is a waste of time . You might as well do something healthy and meaningful .
+Bot: I hope I can practice self-control again .
+
+User: What ’ s the plot of your new movie ?
+Bot: It ’ s a story about a policemen who is investigating a series of strange murders . I play the part of the detective . He has to catch the killer , but there ’ s very little evidence . It ’ s a psychological th
+
+User: It ’ s a story about a policemen who is investigating a series of strange murders . I play the part of the detective . He has to catch the killer , but there ’ s very little evidence . It ’ s a psychological th
+Bot: Did you enjoy making the movie ? We heard stories of disagreement with other actors and with the director .
+
+User: Did you enjoy making the movie ? We heard stories of disagreement with other actors and with the director .
+Bot: I have had disagreement with every director . I ’ Ve worked with . We ’ Ve always disagreed in a friendly way and we have always resolved our differences . It was the same when I made this movie . I don ’ t no
+
+User: I have had disagreement with every director . I ’ Ve worked with . We ’ Ve always disagreed in a friendly way and we have always resolved our differences . It was the same when I made this movie . I don ’ t no
+Bot: Critics are not very happy with the movies that you ’ Ve made recently . Does that bother you ?
+
+User: Critics are not very happy with the movies that you ’ Ve made recently . Does that bother you ?
+Bot: Not at all . The feedback from audience has been great . I care about what they think more than what the critics think .
+
+User: Not at all . The feedback from audience has been great . I care about what they think more than what the critics think .
+Bot: Did you do you own stunts in the movie ?
+
+User: Did you do you own stunts in the movie ?
+Bot: I wanted to , but my insurance company wouldn ’ t let me . All of my stunts were done by a stuntman . As you know , I used to do my own stunts , but I ’ ll leave that to the experts in future .
+
+User: I wanted to , but my insurance company wouldn ’ t let me . All of my stunts were done by a stuntman . As you know , I used to do my own stunts , but I ’ ll leave that to the experts in future .
+Bot: Thank you very much for doing this interview .
+
+User: Thank you very much for doing this interview .
+Bot: My pleasure . Have you seen the movie yet ?
+
+User: My pleasure . Have you seen the movie yet ?
+Bot: Yes . I have . I liked it very much . Like you , I was very impressed with Rachel ’ s performance in the movie . She ’ s going to be a star .
+
+User: Who's that old lady trimming the trees ?
+Bot: She's my grandma .
+
+User: She's my grandma .
+Bot: She's looks very healthy.How old is she ?
+
+User: She's looks very healthy.How old is she ?
+Bot: 92 .
+
+User: Mom . My legs are killing me .
+Bot: Hold on . We will be successful right away .
