@@ -278,10 +278,13 @@ In the future, I may return to this project and improve it further when I have a
 ---
 
 # 📷 Screenshots
+## Training Logs
 
 ![Training Log](https://github.com/aniway89/LLM/blob/main/LOG.png?raw=true)
-![Training Log]([https://github.com/aniway89/LLM/blob/main/LOG.png?raw=true](https://github.com/aniway89/LLM/blob/main/Screenshots/Screenshot%20from%202026-03-09%2014-34-07.png?raw=true))
-![Chat Log]([https://github.com/aniway89/LLM/blob/main/LOG.png?raw=true](https://github.com/aniway89/LLM/blob/main/Screenshots/Screenshot%20from%202026-03-09%2014-44-14.png?raw=true))
+
+![Checkpoint Training Screenshot](https://github.com/aniway89/LLM/blob/main/Screenshots/CTSS.png?raw=true)
+
+![Chat Output Screenshot](https://github.com/aniway89/LLM/blob/main/Screenshots/CPSS.png?raw=true)
 
 ---
 
