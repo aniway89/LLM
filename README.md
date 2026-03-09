@@ -1,222 +1,285 @@
 # LLM
 
-### Building a Small but Functional 10M Parameter LLM
+### Building a Small Transformer Language Model From Scratch
 
-This repository documents the journey of building a **small but functional Large Language Model (LLM)** from scratch.
+This repository documents the journey of building a **small but functional Transformer-based Language Model (LLM)** from scratch.
 
-The goal of this project is to gradually develop a language model capable of understanding and generating text in:
+The goal of this project was not to create a production-level AI system, but to **deeply understand how modern language models work internally** by implementing one step by step.
 
-* 🇺🇸 **English**
-* 🇯🇵 **Japanese**
-
-Instead of jumping directly to large-scale architectures, this project focuses on **learning the core mechanics of LLMs step by step**, starting from the most fundamental models and progressively improving them.
+Instead of relying on existing frameworks or pretrained models, the entire system was built and trained manually using **PyTorch**, focusing on understanding the core mechanics behind LLMs.
 
 ---
 
 # 🎯 Project Goals
 
-The long-term objective is to build and experiment with a **10M parameter transformer-based language model** while documenting the entire learning and engineering process.
+The main objective of this project was to **learn how language models actually work under the hood** by building one from scratch.
 
-This repository will track:
+This repository documents the entire process including:
 
-* 📚 **Learning progress**
-* 🧪 **Experiments**
-* 🧠 **Model training**
-* ⚙️ **Engineering challenges**
-* 🛠 **Solutions and optimizations**
-* 📈 **Model improvements over time**
+* 📚 Learning and research
+* 🧪 Small experiments
+* 🧠 Model training
+* ⚙️ Engineering challenges
+* 🛠 Solutions and optimizations
+* 📈 Model development progress
 
-The project is structured as a **learning log + engineering notebook**, where each stage of development is recorded.
+Rather than being just a code repository, this project also serves as a **learning log and engineering journal** that tracks the process of building a language model step by step.
 
 ---
 
 # 📖 Background
 
-Before starting this repository, I spent **about one month studying the fundamentals of Large Language Models**.
+Before starting this project, I spent **about one month studying the fundamentals of Large Language Models**.
 
-Although I already had general familiarity with **AI and LLMs**, I wanted to understand their **internal mechanics more deeply**, including how they are actually built and trained.
+Although I already had general familiarity with AI and LLMs, I wanted to understand **how these systems are actually built and trained**.
 
-During this study phase, I explored several key concepts:
+During the research phase I explored topics such as:
 
-* Transformers architecture
+* Transformer architecture
+* Attention mechanisms
 * Tokenization strategies
 * Language model training pipelines
 * Dataset preparation
+* Sampling strategies
 * Small-scale language models
-* Core LLM architecture principles
-* **BLM (Bigram Language Model)** as the first experimental model
 
-This preparation phase helped build the theoretical foundation required before attempting to build a real system.
+The first experimental model implemented was a **Bigram Language Model (BLM)** which helped build intuition about:
 
-This repository marks the **start of the practical implementation journey**.
+* token prediction
+* probability distributions
+* training loops
+* text generation
+
+After understanding these basics, the project progressed toward implementing a **full transformer-based model**.
 
 ---
 
 # 🚧 Project Progress
 
-The project started with extremely small experiments and gradually evolved toward a working transformer model.
+The project evolved through several stages.
 
 ### Early Stage
 
-The first working experiment was a **Bigram Language Model (BLM)** used to understand:
+The first working experiment was a **Bigram Language Model**, which was used to understand the simplest possible language model architecture.
 
-* token prediction
+This stage focused on understanding:
+
+* how tokens predict the next token
 * probability distributions
 * training loops
-* dataset preparation
+* dataset handling
 
-This stage helped establish a minimal but working language model pipeline.
-
----
-
-### Current Stage
-
-The project has now progressed to training a **~5 million parameter transformer model** using **character-level tokenization**.
-
-Key characteristics of the current model:
-
-* ~5M parameters
-* Transformer-based architecture
-* Character-level tokenizer
-* Designed to run within **Google Colab resource limits**
+It served as a minimal but functional starting point.
 
 ---
 
-# ⚠️ Engineering Challenges
+### Transformer Implementation
 
-One of the biggest challenges in this project has been **hardware limitations**.
+After the bigram model experiment, the project moved toward building a **Transformer-based architecture**.
 
-Since the training environment is based on **Google Colab Free Tier**, the available resources are limited.
+The transformer model includes:
 
-Typical environment constraints include:
+* Multi-head self-attention
+* Feed-forward neural networks
+* Layer normalization
+* Positional embeddings
+* Autoregressive text generation
 
-### RAM
-
-Approximately **12GB system RAM**
-
-This memory must handle:
-
-* Model weights
-* Optimizer states
-* Dataset batches
-* Python runtime
-
-Efficient memory management is therefore critical.
-
----
-
-### CPU
-
-Colab typically provides **2 virtual CPUs**, which affects:
-
-* Data loading speed
-* preprocessing
-* training throughput
-
-Because of this, the codebase has been optimized to remain **CPU-friendly and memory efficient**.
-
----
-
-### GPU Availability
-
-GPU access on the free tier is **not guaranteed**.
-
-Possible GPUs include:
-
-* NVIDIA T4
-* NVIDIA P100
-* Sometimes no GPU
-
-This means the training system must remain **robust even without GPU acceleration**.
-
----
-
-# ⏱ The Biggest Limitation: Session Timeout
-
-The most significant constraint encountered was **Colab's session time limit**.
-
-Free sessions typically run for **a maximum of ~12 hours** before automatically shutting down.
-
-For machine learning training workloads, this is a major obstacle because:
-
-* long training jobs get interrupted
-* progress can be lost
-* restarting training becomes necessary
-
-Early experiments frequently failed because the training session terminated before completion.
-
----
-
-# 🧠 Solution: Chunk-Based Training
-
-To overcome the 12-hour runtime limit, the training pipeline was redesigned using a **chunk-based training strategy**.
-
-Instead of one long training session, the training process is divided into **independent segments (chunks)**.
-
-Each chunk performs the following steps:
-
-1. Load the latest checkpoint
-2. Train for a defined number of steps
-3. Save progress
-4. Exit safely before the session timeout
-
-This approach allows the training to **continue across multiple Colab sessions** without losing progress.
-
----
-
-# ⚙️ Code Optimization
-
-To ensure the model runs within Colab's constraints, the code was optimized for:
-
-### Memory Efficiency
-
-* Reduced batch sizes
-* Controlled tensor allocation
-* Frequent checkpointing
-
-### CPU Efficiency
-
-* Lightweight preprocessing
-* Efficient training loops
-* Minimal overhead in the data pipeline
-
-These optimizations allow the model to train reliably within:
-
-* **12GB RAM**
-* **limited CPU resources**
+This architecture forms the foundation used by modern LLM systems.
 
 ---
 
 # 📊 Current Model Status
 
-The current model being trained in this repository:
+The final model trained in this repository has approximately:
 
-**Model size:** ~5 Million Parameters
-**Tokenization:** Character-level
-**Architecture:** Transformer-based
-**Training environment:** Google Colab (free tier)
+**~5 Million Parameters**
 
-The training system is now stable enough to **resume training across sessions**.
+Model characteristics:
+
+* Transformer-based architecture
+* Character-level tokenization
+* Context length: 256
+* Multi-head attention
+* Implemented using PyTorch
+
+The model is capable of generating simple text and continuing prompts.
+
+Example prompt:
+```
+User: Hello
+Bot:
+
+
+Example generated output:
+
+
+Bot: We are the Macs preservatives at the Mac...
+```
+
+
+Because this is a **very small experimental model**, the responses are sometimes unusual or grammatically imperfect. However, the system successfully demonstrates how language generation works.
 
 ---
 
-# 🚀 Future Goals
+# ⚠️ Engineering Challenges
 
-Next development steps include:
+One of the biggest challenges during this project was **hardware limitations**.
 
-* Scaling toward **10M+ parameter models**
-* Improving dataset quality
-* experimenting with **subword tokenization**
-* optimizing training stability
-* improving generation quality
+The entire training process was done using **Google Colab Free Tier**, which comes with several restrictions.
 
-Each stage will be documented as the project evolves.
+---
+
+### RAM Limitations
+
+The environment typically provides around:
+
+**~12GB System RAM**
+
+This memory must handle:
+
+* model weights
+* optimizer states
+* dataset batches
+* runtime memory
+
+Efficient memory management was therefore important for stable training.
+
+---
+
+### CPU Constraints
+
+Colab generally provides only **2 virtual CPUs**, which affects:
+
+* preprocessing speed
+* dataset loading
+* training throughput
+
+Because of this, the codebase was written to remain **CPU-friendly and lightweight**.
+
+---
+
+### GPU Availability
+
+GPU access on the free tier is **not always guaranteed**.
+
+Possible hardware includes:
+
+* NVIDIA T4
+* NVIDIA P100
+* sometimes no GPU at all
+
+Because of this uncertainty, the training system had to remain **robust even when GPU was unavailable**.
+
+---
+
+# ⏱ The Biggest Limitation: Session Timeout
+
+One of the biggest obstacles encountered was **Google Colab's session time limit**.
+
+Free sessions usually run for **a maximum of around 12 hours** before automatically shutting down.
+
+For machine learning training workloads this is problematic because:
+
+* long training jobs get interrupted
+* progress can be lost
+* training must restart
+
+This became a major issue during early training experiments.
+
+---
+
+# 🧠 Solution: Checkpoint-Based Training
+
+To solve the session timeout problem, the training system was redesigned using **checkpoint-based training**.
+
+The process works as follows:
+
+1. Save model checkpoints during training
+2. Reload checkpoints when the session restarts
+3. Continue training from the last saved step
+
+This allowed training to continue across **multiple Colab sessions** without losing progress.
+
+This approach made it possible to complete the full training process despite the environment limitations.
+
+---
+
+# ⚙️ Code Optimization
+
+To ensure the model runs reliably within Colab constraints, the code was optimized for:
+
+### Memory Efficiency
+
+* controlled batch sizes
+* careful tensor allocation
+* regular checkpointing
+
+### Training Stability
+
+* gradient management
+* stable training loops
+* periodic loss evaluation
+
+These optimizations allowed the model to train successfully within limited resources.
+
+---
+
+# 🧠 Project Limitations
+
+Although the project successfully produced a working language model, several limitations exist:
+
+* Small model size (~5M parameters)
+* Character-level tokenization
+* Limited training dataset
+* Limited compute resources
+* Relatively short training duration
+
+Because of these limitations, the model cannot perform complex reasoning or advanced language tasks.
+
+However, for a small research experiment, the result is still meaningful.
+
+---
+
+# 🚀 Future Improvements
+
+If better resources become available in the future, several improvements could be explored:
+
+* Scaling the model toward **10M+ parameters**
+* Switching to **subword tokenization**
+* training on larger datasets
+* experimenting with improved transformer architectures
+* longer training runs
+
+These improvements could significantly increase model capability.
+
+For now, the project achieved its primary goal: **understanding how language models are built and trained**.
+
+---
+
+# 💭 Personal Reflection
+
+This project took **about a month of learning, experimenting, debugging, and training**.
+
+During this time I learned a lot about:
+
+* transformers
+* attention mechanisms
+* language model training
+* PyTorch implementation
+* handling real engineering constraints
+
+For the level of research and resources available to me right now, this project is **more than enough**, and I am genuinely satisfied with the result.
+
+Building even a small language model from scratch was a valuable experience.
+
+In the future, I may return to this project and improve it further when I have access to **better hardware and more training resources**.
 
 ---
 
 # 📷 Screenshots
 
-![App Screenshot](https://github.com/aniway89/LLM/blob/main/LOG.png?raw=true)
+![Training Log](https://github.com/aniway89/LLM/blob/main/LOG.png?raw=true)
 
 ---
 
@@ -224,9 +287,9 @@ Each stage will be documented as the project evolves.
 
 Hi! I'm **Ayan**.
 
-This repository is part of my personal journey to understand how **Large Language Models actually work under the hood** by building them from scratch.
+This repository is part of my personal journey to understand **how Large Language Models actually work** by building them from scratch.
 
-GitHub:
+GitHub:  
 https://github.com/aniway89
 
 ---
